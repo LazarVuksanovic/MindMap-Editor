@@ -8,3 +8,7 @@
 - **Save and Load**: Save your mind maps to files and load them later for further editing.
 
 - **Editable Nodes**: Modify node content with ease.
+
+
+
+![mindmapgif](https://github.com/LazarVuksanovic/MindMap-Editor/assets/95725910/817029c7-512d-4099-abf9-09b2b54b13ad)
